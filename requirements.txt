@@ -1,7 +1,7 @@
-geopandas
-ee
-geemap
 streamlit
+geopandas
 earthengine-api
-
-
+geemap
+numpy
+pandas
+Pillow
